@@ -1,10 +1,10 @@
-def square_array(numbers)
+def square_array(1,2,3)
   # your code here
   numbers.each do
-    Math.sqrt(numbers[index])
+    numbers=numbers
   end
      
   
 end
-numbers = [1,2,3]
+ 
 square_array(numbers)
