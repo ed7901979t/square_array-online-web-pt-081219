@@ -1,6 +1,8 @@
 def square_array(numbers)
   # your code here
-  numbers.each { |numbers| Math.sqrt(numbers) }
+  numbers.each do
+    Math.sqrt(numbers)
+  end
      
   
 end
