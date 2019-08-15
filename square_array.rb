@@ -1,7 +1,7 @@
 def square_array(new_numbers)
   # your code here
   new_numbers.each do
-    new_numbers=new_numbers ** new_numbers
+    
   end
      
   
